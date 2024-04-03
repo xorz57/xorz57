@@ -4,8 +4,6 @@
 
 I'm a passionate Software Engineer with a Master's degree in Computer Engineering. My expertise lies in crafting efficient and high-quality software solutions that cater to both clients and end-users. I specialize in C++ development and stay current with the latest C++ standards, including C++11, C++14, and C++17, consistently integrating industry best practices into my work.
 
-Throughout my academic and professional journey, I've cultivated a deep understanding of software engineering concepts, embracing algorithms, data structures, and object-oriented programming principles. My proficiency in C++ empowers me to create scalable software solutions, employing key practices like RAII, smart pointers, and STL containers.
-
 ## What I Bring to the Table
 
 - Mastering C++ Development: I'm well-versed in the intricacies of C++ and continuously seek out the latest advancements in the language to remain competitive in the ever-evolving tech landscape.
