@@ -1,4 +1,11 @@
-
+<div align="center">
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xorz57" />
+</span>
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xorz57&layout=compact&langs_count=8&card_width=320" />
+</span>
+</div>
 
 ## About Me
 
